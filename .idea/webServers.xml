@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8e9825f-4518-48e2-8c7d-ddd9b0fb4046" name="http://php0720e-2.itpsoft.com.vn/" url="http://php0720e-2.itpsoft.com.vn">
+        <fileTransfer host="php0720e-2.itpsoft.com.vn" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
